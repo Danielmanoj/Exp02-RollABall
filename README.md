@@ -78,7 +78,7 @@ public class NewMonoBehaviour : MonoBehaviour
 
 ## Output:
 
-<img width="1919" height="1116" alt="image" src="https://github.com/user-attachments/assets/3b42ea83-8c49-4e44-b958-dd7fdbfa1717" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5337fa24-8461-437e-8f23-ac6ce0f6c973" />
 
 ## Result:
 Thus the experiment was successful. The ball moved as expected using Rigidbody physics and force-based movement.
